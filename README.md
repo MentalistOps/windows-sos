@@ -30,10 +30,13 @@ Utilizzalo a tuo rischio e pericolo. Si consiglia di testare sempre in ambienti 
 - 🏠 **Sito personale:** [Contatti e progetti](https://mentalistops.webnode.it/contatti/)
 - 💰 **Donazioni PayPal:** [Supporta il progetto](https://www.paypal.com/ncp/payment/VUWZ3AE85H6XL)
 
----## Support my work
+---## Supporta il progetto
 
-If you find my tools useful, consider supporting me on Ko-fi:  
-👉 [https://ko-fi.com/mentalistops](https://ko-fi.com/mentalistops)
+Se trovi utile questo strumento, puoi supportare il mio lavoro acquistando la versione estesa su Ko-fi:
+👉 https://ko-fi.com/mentalistops
+
+
+
 
 ## 🧪 Test e feedback
 
