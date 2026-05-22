@@ -26,7 +26,6 @@ Utilizzalo a tuo rischio e pericolo. Si consiglia di testare sempre in ambienti 
 
 - 🌐 **GitHub Repository:** [MentalistOps/MentalistOps](https://github.com/MentalistOps/MentalistOps)
 - 🧠 **Dev.to Profilo:** attivo con articoli e aggiornamenti
-- 
 - 🏠 **Sito personale:** [Contatti e progetti](https://mentalistops.webnode.it/contatti/)
 - 💰 **Donazioni PayPal:** [Supporta il progetto](https://www.paypal.com/ncp/payment/VUWZ3AE85H6XL)
 ---## Supporta il progetto
