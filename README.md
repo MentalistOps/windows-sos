@@ -26,10 +26,9 @@ Utilizzalo a tuo rischio e pericolo. Si consiglia di testare sempre in ambienti 
 
 - 🌐 **GitHub Repository:** [MentalistOps/MentalistOps](https://github.com/MentalistOps/MentalistOps)
 - 🧠 **Dev.to Profilo:** attivo con articoli e aggiornamenti
-- 🧵 **Reddit:** partecipo a r/Windows11, r/techsupport e altri subreddit tech
+- 
 - 🏠 **Sito personale:** [Contatti e progetti](https://mentalistops.webnode.it/contatti/)
 - 💰 **Donazioni PayPal:** [Supporta il progetto](https://www.paypal.com/ncp/payment/VUWZ3AE85H6XL)
-
 ---## Supporta il progetto
 
 Se trovi utile questo strumento, puoi supportare il mio lavoro acquistando la versione estesa su Ko-fi:
